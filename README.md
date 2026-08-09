@@ -27,9 +27,20 @@ California Housing dataset (built into scikit-learn) — contains housing data a
 ## 📈 Model Performance
 | Metric | Value |
 |---|---|
-| MAE | [apna value daalo] |
-| RMSE | [apna value daalo] |
-| R² Score | [apna value daalo] |
+| MAE | 0.533 |
+| RMSE | 0.746 |
+| R² Score | 0.576 |
+
+## 📊 Visualizations
+
+### Correlation Heatmap
+![Correlation Heatmap](correlation_heatmap.png)
+
+### Actual vs Predicted House Values
+![Actual vs Predicted](actual_vs_predicted.png)
+
+### Residual Plot
+![Residual Plot](residual_plot.png)
 
 ## 💡 Key Insight
 Median Income (`MedInc`) showed the strongest correlation with house prices, making it the most influential predictor in the model.
