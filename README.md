@@ -49,8 +49,7 @@ Median Income (`MedInc`) showed the strongest correlation with house prices, mak
 - `task1_ml_linear_regression.ipynb` — Full Jupyter Notebook with code, EDA, model training, and evaluation
 
 ## 🚀 How to Run
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khushisingh916228-droid/California-Housing-Price-Prediction/blob/main/task1_ml_linear_regression.ipynb)
-
+https://colab.research.google.com/github/khushisingh916228-droid/California-Housing-Price-Prediction/blob/main/task1_ml_linear_regression.ipynb
 1. Click the badge above
 2. Run all cells (`Runtime → Run all`)
 3. Dataset loads automatically via scikit-learn — no manual download needed
